@@ -6,7 +6,25 @@
     <description>Recent content in Tags on toxb11&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 May 2022 20:01:44 +0800</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 May 2022 16:48:19 +0800</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>标签1</title>
+      <link>/tags/%E6%A0%87%E7%AD%BE1/</link>
+      <pubDate>Sat, 07 May 2022 16:48:19 +0800</pubDate>
+      
+      <guid>/tags/%E6%A0%87%E7%AD%BE1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>标签2</title>
+      <link>/tags/%E6%A0%87%E7%AD%BE2/</link>
+      <pubDate>Sat, 07 May 2022 16:48:19 +0800</pubDate>
+      
+      <guid>/tags/%E6%A0%87%E7%AD%BE2/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>kubernetes</title>
       <link>/tags/kubernetes/</link>
